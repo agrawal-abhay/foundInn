@@ -1,0 +1,13 @@
+.env
+node_modules/
+public/images
+public/images/listings
+public/images/users
+public/images/reviews
+public/images/avatars
+public/images/avatars/users
+public/images/avatars/listings
+public/images/avatars/reviews
+public/images/avatars/superadmin
+public/images/avatars/admin
+public/images/avatars/owner 
