@@ -28,4 +28,10 @@ router.route("/login")
     
 router.get("/logout",userController.logout);
 
+// router.get('/create-superadmin', async (req, res) => {
+//   const admin = new User({ username: 'superadmin', email: 'admin@example.com', role: 'superadmin' });
+//   await User.register(admin, 'admin123');
+//   res.send("✅ Superadmin created!");
+// });
+
 module.exports = router; 
